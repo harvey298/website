@@ -1,0 +1,24 @@
+html, body {
+    width: 100%;
+    margin: auto;
+    padding: 0;
+    font: 14px Arial,sans-serif; 
+}
+
+main {
+    font: 16px Arial,sans-serif;
+    text-align: center; 
+}
+
+header {
+    text-align: center; 
+}
+
+.mainContent {
+    font: 16px Arial,sans-serif;
+    text-align: center; 
+}
+
+.start {
+    text-align: center; 
+}
